@@ -1,2 +1,2 @@
 # my-site
-my site
+Мой сайт
